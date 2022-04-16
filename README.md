@@ -4,5 +4,5 @@ excercise for the course
 **** Live Link ****
 <br>
 <b>class-01:</b> 
-<a href="https://eyasir329.github.io/es-rwd-2105/class-01/" target="_blank">LINK</a>
+<a href="https://eyasir329.github.io/es-rwd-2105/class-01/">LINK</a>
 <br>

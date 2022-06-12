@@ -12,4 +12,7 @@ excercise for the course
 <b>Class-03:</b> 
 <a href="https://eyasir329.github.io/es-rwd-2105/class-03/">LINK</a>
 <br>
+<b>Class-04:</b> 
+<a href="https://eyasir329.github.io/es-rwd-2105/class-04/">LINK</a>
+<br>
 
